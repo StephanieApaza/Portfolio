@@ -14,11 +14,12 @@ Welcome to my portfolio! Here you will find a collection of my projects:
   
 #### 📊 Power BI  
 - [Competitor Sales Analysis](https://github.com/StephanieApaza/Competitor_sales_analysis) → Analyze the market share of the Manufacturing Industry and identify the top-performing products and segments.
-- [Ecommerce Analytics](https://github.com/StephanieApaza/Ecommerce_Online_Pet_Supply_Store) → Analyze the performance of an online pet supply store, to increase sales, optimize shipping costs, and improve profitability.
+- [Ecommerce Analytics](https://github.com/StephanieApaza/Ecommerce_Online_Pet_Supply_Store) → Analyze the performance of an online pet supply store to increase sales, optimize shipping costs, and improve profitability.
 - [Healthcare analysis](https://github.com/StephanieApaza/Helthcare_analysis) → Analyze hospital efficiency for hip replacement surgeries, and compare hospitals across Length of Stay (LOS), discharges, and costs per discharge.
+- [Inventory analysis](https://github.com/StephanieApaza/Inventory_analysis) → Analyze the inventory to provide insights for item renewal, stock optimization, and revenue growth.
 
 #### 📑 Excel
 - [Revenue Growth Analysis](https://github.com/StephanieApaza/Net_revenue_management_HealthMax) → Identify growth opportunities through Net Revenue Management in the shampoo market.
 - [Customer Churn Analysis](https://github.com/StephanieApaza/Customer_churn_analysis) → Analyze customer churn for a telecommunications company, explore key drivers of customer attrition, and provide actionable recommendations.
 
-✨ This repository works as an **index** to easily navigate through all my projects.
+✨ This repository works as an **index** to navigate through all my projects easily.
