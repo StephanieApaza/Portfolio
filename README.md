@@ -6,6 +6,7 @@ Welcome to my portfolio! Here you will find a collection of my projects:
 - [Sales Methods Analysis](https://github.com/StephanieApaza/Product-Sales-Analysis) → Analyze the effectiveness of different sales methods for a new product line.
 - [Bank Marketing Campaign](https://github.com/StephanieApaza/Bank_marketing_campaign?tab=readme-ov-file#bank-marketing-campaign-analysis)  → Analyze the customer profiles and the impact of marketing campaigns on the acceptance of financial products.
 - [Will customers purchase your product?](https://github.com/StephanieApaza/will_customers_purchase_your_product)  → Generate some insights into customer browsing behaviors in November and December, the busiest months for shoppers.
+- [Food Prices, Income, and Dietary Habits Analysis](https://github.com/StephanieApaza/Income_influence_food_choices) → The project applies exploratory data analysis (EDA) and visualization techniques to highlight key socioeconomic and nutritional trends.
 
 #### 🗄️ SQL  
 - [Evaluate a manufacturing process](https://github.com/StephanieApaza/Manufacturing_process_evaluation) → Analyze the manufacturing parts table and create an alert that flags whether the height of a product is within the control limits for each operator.
