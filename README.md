@@ -12,6 +12,7 @@ Welcome to my portfolio! Here you will find a collection of my projects:
 - [Evaluate a manufacturing process](https://github.com/StephanieApaza/Manufacturing_process_evaluation) → Analyze the manufacturing parts table and create an alert that flags whether the height of a product is within the control limits for each operator.
 - [Student Performance Analysis](https://github.com/StephanieApaza/Factors_student_performance_analysis) → Investigate the factors influencing student success and identify key drivers of high exam scores.
 - [Impact analysis NGO initiatives](https://github.com/StephanieApaza/Impact_analysis_NGO_initiatives) → Analyze the GoodThought NGO's assignments, donations, and donors to understand the impact and effectiveness of its initiatives over time.
+- [Analyzing Unicorn Companies](https://github.com/StephanieApaza/Analyzing_unicorn_companies) → Identify booming industries, key countries, investors driving unicorn growth, and how long it takes for a company to reach unicorn status.
   
 #### 📊 Power BI  
 - [Competitor Sales Analysis](https://github.com/StephanieApaza/Competitor_sales_analysis) → Analyze the market share of the Manufacturing Industry and identify the top-performing products and segments.
