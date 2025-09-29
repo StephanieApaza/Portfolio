@@ -11,14 +11,15 @@ Welcome to my portfolio! Here you will find a collection of my projects:
 #### 🗄️ SQL  
 - [Evaluate a manufacturing process](https://github.com/StephanieApaza/Manufacturing_process_evaluation) → Analyze the manufacturing parts table and create an alert that flags whether the height of a product is within the control limits for each operator.
 - [Student Performance Analysis](https://github.com/StephanieApaza/Factors_student_performance_analysis) → Investigate the factors influencing student success and identify key drivers of high exam scores.
-- [Impact analysis NGO initiatives](https://github.com/StephanieApaza/Impact_analysis_NGO_initiatives) → Analyze the GoodThought NGO's assignments, donations, and donors to understand the impact and effectiveness of its initiatives over time.
+- [Impact Analysis NGO initiatives](https://github.com/StephanieApaza/Impact_analysis_NGO_initiatives) → Analyze the GoodThought NGO's assignments, donations, and donors to understand the impact and effectiveness of its initiatives over time.
 - [Analyzing Unicorn Companies](https://github.com/StephanieApaza/Analyzing_unicorn_companies) → Identify booming industries, key countries, investors driving unicorn growth, and how long it takes for a company to reach unicorn status.
   
 #### 📊 Power BI  
 - [Competitor Sales Analysis](https://github.com/StephanieApaza/Competitor_sales_analysis) → Analyze the market share of the Manufacturing Industry and identify the top-performing products and segments.
 - [Ecommerce Analytics](https://github.com/StephanieApaza/Ecommerce_Online_Pet_Supply_Store) → Analyze the performance of an online pet supply store to increase sales, optimize shipping costs, and improve profitability.
-- [Healthcare analysis](https://github.com/StephanieApaza/Helthcare_analysis) → Analyze hospital efficiency for hip replacement surgeries, and compare hospitals across Length of Stay (LOS), discharges, and costs per discharge.
-- [Inventory analysis](https://github.com/StephanieApaza/Inventory_analysis) → Analyze the inventory to provide insights for item renewal, stock optimization, and revenue growth.
+- [Healthcare Analysis](https://github.com/StephanieApaza/Helthcare_analysis) → Analyze hospital efficiency for hip replacement surgeries, and compare hospitals across Length of Stay (LOS), discharges, and costs per discharge.
+- [Inventory Analysis](https://github.com/StephanieApaza/Inventory_analysis) → Analyze the inventory to provide insights for item renewal, stock optimization, and revenue growth.
+- [Financial Analysis and Forecasting](https://github.com/StephanieApaza/Financial_analysis) → Monitor profit margin and financial KPIs, build a revenue forecast model using different growth scenarios, and conduct a sensitivity analysis to evaluate the impact of changes in sales rates and discounts/premiums.
 
 #### 📑 Excel
 - [Revenue Growth Analysis](https://github.com/StephanieApaza/Net_revenue_management_HealthMax) → Identify growth opportunities through Net Revenue Management in the shampoo market.
